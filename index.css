@@ -13,6 +13,7 @@ body {
 }
 
 h2{
+    box-sizing: border-box;
     border: 5px solid whitesmoke;
     text-align: center;
     margin: auto;
